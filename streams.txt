@@ -3,3 +3,4 @@ computer science
 information technology
 mechanical 
 civil
+electrical
